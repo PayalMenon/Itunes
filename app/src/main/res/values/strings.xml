@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">iTunes</string>
+    <string name="loading">Loading</string>
+    <string name="welcome">Search For the Artist</string>
+    <string name="search">Search</string>
+    <string name="album">Album: </string>
+    <string name="song">Song: </string>
+    <string name="by">By: </string>
+    <string name="genre">Genre: </string>
+    <string name="retry">Retry</string>
+    <string name="unknown_artist">Unable to fetch data for artist %s. Please search again</string>
+    <string name="error_text">Oops an error occurred while fetching data. Please try again.</string>
+</resources>
